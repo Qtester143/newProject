@@ -18,10 +18,10 @@ public class question1 {
 		
 		int Nums = num.length;
 		
-		for(int i=0;i<Nums;i++)
+		/*for(int i=0;i<Nums;i++)
 		{
 			System.out.println(" Array : "  +"index"+i+ " : " +num[i]);
-		}
+		}*/
 		
 	}
 
